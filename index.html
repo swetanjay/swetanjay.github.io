@@ -63,7 +63,7 @@
 					Join me on
 				</div>
 				<div class="social-links-body">
-				<br><a href="https://twitter.com/swetanjay">Twitter</a> &#9679 <a href="https://www.linkedin.com/in/swetanjay/">LinkedIn</a> &#9679 <a href="https://github.com/swetanjay">GitHub</a>
+				<br><a href="https://twitter.com/anshu_swetanjay">Twitter</a> &#9679 <a href="https://www.linkedin.com/in/swetanjay/">LinkedIn</a> &#9679 <a href="https://github.com/swetanjay">GitHub</a>
 				</div>
 			</div>
 			<div class="r-s-b">
